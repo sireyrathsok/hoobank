@@ -1,0 +1,25 @@
+.BoderColor{
+    border: solid ;
+    color:  rgba(125, 231, 235, 1); 
+
+}
+
+.BackgroundColor{
+    background:  rgba(125, 231, 235, 1); 
+}
+
+ .TextColor{
+    color:  rgba(125, 231, 235, 1);
+ }
+
+.CutomBg{
+    background:rgba(125, 231, 235, 1);
+} 
+
+.Font-Poppins{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 0;
+    font-style: normal;
+}
+
+/* "font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px]" */
